@@ -1,4 +1,4 @@
-Package: Test Package
+Package: test-package
 Title: Test package: Base functions for Bioconductor
 Version: 0.99.0
 Author: R. Gentleman, V. Carey, M. Morgan, S. Falcon
