@@ -1,7 +1,7 @@
 Package: test-package
 Title: Test package: Base functions for Bioconductor
-Version: 0.99.01
-Author: R. Gentleman, V. Carey, M. Morgan, S. Falcon
+Version: 0.99.02
+Author: Turaga Nitesh
 Description: Functions that are needed by many other packages or which
         replace R functions.
 Suggests: tools, tkWidgets, ALL, RUnit, golubEsets
