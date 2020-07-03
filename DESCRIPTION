@@ -7,8 +7,7 @@ Description: Functions that are needed by many other packages or which
 Suggests: tools, tkWidgets, ALL, RUnit, golubEsets
 Depends: R (>= 2.10), BiocGenerics (>= 0.27.1), utils
 Imports: methods
-Maintainer: Bioconductor Package Maintainer
-        <maintainer@bioconductor.org>
+Maintainer: Turaga Test Nitesh <turaganitesh@gmail.com>
 License: Artistic-2.0
 Collate: tools.R strings.R environment.R vignettes.R packages.R
         AllGenerics.R VersionsClass.R VersionedClasses.R
